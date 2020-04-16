@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Wafers"
+author: Kamil Kobza
+date:   2020-04-16 17:02:29 +0200
+categories: hardware electronics
+---
+
+Wafer (slice, substrate) - is a slice of semiconductor used in fabrication of integrated circuits and solar cells.
